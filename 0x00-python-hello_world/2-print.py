@@ -1,2 +1,2 @@
-a = '"Programming is like building a multilingual puzzle'
-print(a[0:51])
+#!/usr/bin/python3
+print('"Programming is like building a multilingual puzzle\n')
