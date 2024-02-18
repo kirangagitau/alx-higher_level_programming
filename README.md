@@ -1,7 +1,15 @@
-# @Author Gitau MUguro
-This folder deals with alx learning of higher level programming language and first on the list is Python.
-Python is an interpreted language, and it is multipurpose. The advantage of python is that it easy to learn
-and fast to write. It is also object orinted meaning it allows user to customize a program however they see
-fit without limits.
+# SQL INTRODUCTION
+Data are facts about a object in question
+DataBase is a systematic collection of data
+DBMS (database management system) is a collection of programs that allow user to view database, manipuate data and help in data representation
 
-Alot is on the way and yet to be discovered
+## Types of DataBase Management system
+* Hierachical (parent - child relationship)
+* Relational (most common) e.g Mysql, ms sql server, sybase
+* Network DBMs
+* Object-Oriented DBMs e.g PostgreSQl
+
+### Rationale of DataBase
+In handling of huge amount of data, there is need in being systematic so as to facilitate proper management withing an institution. Data such 
+as customer data, students data such as grades, fee balances and even medical records of patients need be handled in a very effective way hence
+the employment of databases as they best at that.
