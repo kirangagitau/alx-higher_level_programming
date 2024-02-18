@@ -1,15 +1,22 @@
-# SQL INTRODUCTION
-Data are facts about a object in question
-DataBase is a systematic collection of data
-DBMS (database management system) is a collection of programs that allow user to view database, manipuate data and help in data representation
+# HIGH LEVEL PROGRAMMING
+High-level programming refers to programming languages that are designed to be easily understood by humans and are closer to natural language than machine language.
+These languages are more abstract and allow programmers to write code at a higher level of abstraction, focusing on the problem-solving logic rather than the 
+intricate details of the computer's architecture.
 
-## Types of DataBase Management system
-* Hierachical (parent - child relationship)
-* Relational (most common) e.g Mysql, ms sql server, sybase
-* Network DBMs
-* Object-Oriented DBMs e.g PostgreSQl
+## Examples of High level programming language
+* Python, 
+* Java, 
+* C#, 
+* JavaScript, 
+* Ruby etc..
 
-### Rationale of DataBase
-In handling of huge amount of data, there is need in being systematic so as to facilitate proper management withing an institution. Data such 
-as customer data, students data such as grades, fee balances and even medical records of patients need be handled in a very effective way hence
-the employment of databases as they best at that.
+### Application
+High-level languages are often used for a wide range of applications, including
+* web development, 
+* mobile app development, 
+* data science, 
+* artificial intelligence, and more.
+
+> [!TIP]
+> High level programming is quiet easy and fun
+> compared to low level programming.
