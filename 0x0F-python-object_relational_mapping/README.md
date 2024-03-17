@@ -1,4 +1,4 @@
-# OBJECT-RELARIONAL MAPPING
+# OBJECT-RELATIONAL MAPPING
 Object–relational mapping (ORM, O/RM, and O/R mapping tool)  is a programming technique for converting
 data between a relational database and the heap of an object-oriented programming language.
 
