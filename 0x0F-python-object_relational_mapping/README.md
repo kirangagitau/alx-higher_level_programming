@@ -11,6 +11,8 @@ Get more info [here](https://www.fullstackpython.com/sqlalchemy.html).
 
 
 - [x] Use **Kali linux**
-- [x] Love coding 
+- [x] Love coding
+- [ ] East an apple 
 > Written by Gitau Muguro
+
 :kenya:
