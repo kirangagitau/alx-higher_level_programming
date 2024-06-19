@@ -1,7 +1,5 @@
 #!/usr/bin/node
-const lineA = 'C is fun';
-const lineB = 'Pythone is cool';
-const lineC = 'JavaScript is amazing';
-console.log(lineA);
-console.log(lineB);
-console.log(lineC);
+const arr = ['C is fun', 'Python is cool', 'Javascript is amazing'];
+arr.forEach(function (el) {
+  console.log(el);
+});
